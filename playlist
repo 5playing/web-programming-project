@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="globals.css" />
+        <link rel="stylesheet" href="styleguide.css" />
+        <link rel="stylesheet" href="playlist.css" />
+    </head>
+    <body>
+        <div class="screen">
+            <div class="div">
+                <div class="overlap">
+                    <img class="polygon" src="img/polygon-12.svg" />
+                    <div class="group">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-2"></div>
+                        </div>
+                    </div>
+                    <div> <!--친구들의 추천곡 2-->
+                        <div class="frn-rec-title2">친구들의 추천곡</div>
+                        <div class="text-wrapper-2">가수 이름</div>
+                        <div class="text-wrapper-3">“작성한 한마디가”</div>
+                        <img class="image" src="img/image-32.png" />
+                    </div>
+                </div>
+                <div class="overlap-2">
+                    <img class="img" src="img/polygon-11.svg" />
+                    <div class="overlap-wrapper">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-2"></div>
+                        </div>
+                    </div>
+                    <div class="text-wrapper-4">친구들의 추천곡</div>
+                    <div class="text-wrapper-5">이곳에 표시됩니다</div>
+                    <div class="text-wrapper-6">“친구들의 한마디”</div>
+                    <img class="image-2" src="img/image-31.png" />
+                    <div class="group-3"></div>
+                </div>
+                <div class="overlap-3">
+                    <img class="polygon-2" src="img/polygon-10.svg" />
+                    <div class="overlap-group-wrapper">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-2"></div>
+                        </div>
+                    </div>
+                    <div class="text-wrapper-7">친구들의 추천곡</div>
+                    <div class="text-wrapper-2">나의 추천곡</div>
+                    <div class="text-wrapper-3">“친구들의 한마디”</div>
+                    <img class="image-2" src="img/image-33.png" />
+                    <div class="group-4"></div>
+                </div>
+                <div class="overlap-4">
+                    <img class="img" src="img/polygon-9.svg" />
+                    <div class="overlap-wrapper">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-2"></div>
+                        </div>
+                    </div>
+                    <div class="text-wrapper-8">친구들의 추천곡</div>
+                    <div class="text-wrapper-2">아티스트</div>
+                    <div class="text-wrapper-3">“이곳에 표시됩니다”</div>
+                    <img class="image" src="img/image-34.png" />
+                    <div class="group-5"></div>
+                </div>
+                <div class="overlap-5">
+                    <img class="polygon-3" src="img/polygon-8.svg" />
+                    <div class="div-wrapper">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-2"></div>
+                        </div>
+                    </div>
+                    <div class="text-wrapper-9">친구들의 추천곡</div>
+                    <div class="text-wrapper-10">가수명</div>
+                    <div class="text-wrapper-11">“친구들이 노래에 대해”</div>
+                    <img class="image-2" src="img/image-30.png" />
+                    <div class="group-6"></div>
+                </div>
+                <div class="group-7">
+                    <p class="p"><span class="span">1</span> <span class="text-wrapper-16">/3</span></p>
+                    <img class="vector" src="img/vector-26.svg" />
+                    <img class="vector-2" src="img/vector-27.svg" />
+                </div>
+                <div class="overlap-6">
+                    <div class="text-wrapper-17">플레이리스트에</div>
+                    <div class="text-wrapper-18">가수 이름</div>
+                    <img class="image-3" src="img/image-27.png" />
+                    <img class="polygon-4" src="img/polygon-7.svg" />
+                </div>
+                <div class="overlap-7">
+                    <div class="text-wrapper-19">상위 5개의 곡이</div>
+                    <div class="text-wrapper-20">이곳에 표시됩니다</div>
+                    <img class="image-4" src="img/image-26.png" />
+                    <img class="polygon-5" src="img/polygon-6.svg" />
+                </div>
+                <div class="overlap-8">
+                    <div class="text-wrapper-21">이곳에 표시됩니다</div>
+                    <div class="text-wrapper-22">나의 추천곡</div>
+                    <img class="image-4" src="img/image-28.png" />
+                    <img class="polygon-6" src="img/polygon-5.svg" />
+                </div>
+                <div class="overlap-9">
+                    <div class="text-wrapper-23">담긴 노래 중</div>
+                    <div class="text-wrapper-24">아티스트</div>
+                    <img class="image-3" src="img/image-29.png" />
+                    <img class="polygon-5" src="img/polygon-4.svg" />
+                </div>
+                <div class="overlap-10">
+                    <div class="text-wrapper-25">좌측에 보이는</div>
+                    <div class="text-wrapper-26">가수명</div>
+                    <img class="image-4" src="img/image-25.png" />
+                    <img class="polygon-7" src="img/polygon-3.svg" />
+                </div>
+                <div class="text-wrapper-27">노래</div>
+                <div class="text-wrapper-28">더보기</div>
+                <div class="text-wrapper-29">가수</div>
+                <div class="text-wrapper-30">친구들의 추천곡</div>
+                <div class="text-wrapper-31">노래</div>
+                <div class="text-wrapper-32">가수</div>
+                <div class="text-wrapper-33">메이트의 한마디</div>
+                <div class="text-wrapper-34">나의 추천곡</div>
+                <div class="text-wrapper-35">추가하기</div>
+                <div class="overlap-11">
+                    <div class="text-wrapper-36">내가 추천한 노래</div>
+                    <div class="text-wrapper-37">가수 이름</div>
+                    <img class="image-5" src="img/image-42.png" />
+                    <img class="polygon-8" src="img/polygon-22.svg" />
+                    <div class="overlap-12">
+                        <div class="group-8">
+                            <div class="overlap-group">
+                                <div class="rectangle"></div>
+                                <div class="rectangle-3"></div>
+                            </div>
+                        </div>
+                        <div class="group-8">
+                            <div class="overlap-group">
+                                <div class="rectangle"></div>
+                                <div class="rectangle-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-13">
+                    <div class="text-wrapper-38">이곳에 표시됩니다</div>
+                    <div class="text-wrapper-39">이곳에 표시됩니다</div>
+                    <img class="image" src="img/image-41.png" />
+                    <img class="polygon-9" src="img/polygon-21.svg" />
+                    <div class="group-9">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-14">
+                    <div class="text-wrapper-36">나의 추천곡</div>
+                    <div class="text-wrapper-37">나의 추천곡</div>
+                    <img class="image" src="img/image-43.png" />
+                    <img class="polygon-10" src="img/polygon-20.svg" />
+                    <div class="group-9">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-15">
+                    <div class="text-wrapper-36">추천 노래 제목이</div>
+                    <div class="text-wrapper-37">아티스트</div>
+                    <img class="image-5" src="img/image-44.png" />
+                    <img class="polygon-9" src="img/polygon-19.svg" />
+                    <div class="group-10">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-16">
+                    <div class="text-wrapper-40">나의 추천곡</div>
+                    <div class="text-wrapper-41">가수명</div>
+                    <img class="image" src="img/image-40.png" />
+                    <img class="polygon-11" src="img/polygon-18.svg" />
+                    <div class="group-9">
+                        <div class="overlap-group">
+                            <div class="rectangle"></div>
+                            <div class="rectangle-3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-wrapper-42">노래</div>
+                <div class="text-wrapper-43">가수</div>
+                <div class="text-wrapper-44">플레이리스트</div>
+                <img class="playlist-pic" src="img/playlist-pic-1.png" />
+            </div>
+        </div>
+    </body>
+</html>
